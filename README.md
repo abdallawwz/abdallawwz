@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdallawwz
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👋 Hi, I’m @Abdallah
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Html, CSS, and JS
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me (abdallawwzz) on discord
 - ⚡ Fun fact: .im a complete beginner looking to learn all i can abt programming
 
